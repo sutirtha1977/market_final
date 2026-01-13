@@ -1,0 +1,12 @@
+name,yahoo_symbol,exchange
+S&P 500,^GSPC,USA
+Dow Jones Industrial Average,^DJI,USA
+Nasdaq Composite,^IXIC,USA
+Nasdaq 100,^NDX,USA
+Russell 2000,^RUT,USA
+CBOE Volatility Index (VIX),^VIX,USA
+Dow Jones Transportation,^DJT,USA
+Dow Jones Utilities,^DJU,USA
+S&P 500 Equal Weight,^SP500EW,USA
+NYSE Composite,^NYA,USA
+NYSE Arca Tech 100,^PSE,USA
